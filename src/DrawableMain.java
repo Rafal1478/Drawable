@@ -4,5 +4,9 @@ public class DrawableMain {
         Square square = new Square(4);
         rectangle.draw();
         square.draw();
+        Triangle tri = new Triangle();
+        tri.draw();
+
+
     }
 }
